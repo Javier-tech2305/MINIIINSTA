@@ -1,0 +1,36 @@
+body{
+    
+     background: linear-gradient(to right, #414144, #12123b);
+
+    
+
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    flex-direction : column;
+    flex-wrap: wrap;
+    padding : 0px;
+    margin: 0px;
+    gap: 10px;
+}
+h1{
+    
+    margin: 10px;
+    font-family: dancing script, cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #126aa5;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.fichiers{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 200px;
+    gap: 10px;
+}
